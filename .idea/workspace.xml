@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="390d373b-6eab-4e04-9d12-dd3132790f91" name="Default Changelist" comment="" />
+    <list default="true" id="390d373b-6eab-4e04-9d12-dd3132790f91" name="Default Changelist" comment="basic of python" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +27,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
@@ -90,13 +92,36 @@
       <option name="presentableId" value="Default" />
       <updated>1598935495729</updated>
     </task>
+    <task id="LOCAL-00001" summary="basic of python">
+      <created>1599646927791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599646927791</updated>
+    </task>
+    <task id="LOCAL-00002" summary="basic of python">
+      <created>1599646968085</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599646968085</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="basic of python" />
+    <option name="LAST_COMMIT_MESSAGE" value="basic of python" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1599646684078">
+    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1599646845469">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599646684078" />
+    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599646845469" />
+    <state x="558" y="260" key="Github.ShareDialog" timestamp="1599647148932">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="558" y="260" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1599647148932" />
     <state width="1308" height="195" key="GridCell.Tab.0.bottom" timestamp="1599646668488">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -129,6 +154,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="195" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599646668489" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1599647103759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599647103759" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
