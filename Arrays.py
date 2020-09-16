@@ -92,6 +92,17 @@ while temp < a3[4]:
 #-----------------------------------------------------------------------------------------------
 
 
-#Hashable or #HashMap :
+#Hashable or #HashMap : is a type of data structure that maps keys to its value pairs
+#How to create dictionary ?> 1 declare curly braces 2 dict() function
+
+#Ex :1 using  curly braces
+b = {'01': 'vamsi', '02': 'krishna'}
+print(b)
+print(type(b))
+#Ex :2 using dict()
 
 
+#----------------------------Nested Dictionary: contant dictionary inside a dictonary
+c = {"Employee": {"vamsi": {"ID": "01", "Salary": "2000", "Designation": "Manager"},
+                  "krishna": {"ID": "03", "Salary": "6000", "Designation": " team Manager"}}}
+print(c)
