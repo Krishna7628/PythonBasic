@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="390d373b-6eab-4e04-9d12-dd3132790f91" name="Default Changelist" comment="1 Specialized Collection or collection modules&#10;2 Arrays">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays.py" afterDir="false" />
-    </list>
+    <list default="true" id="390d373b-6eab-4e04-9d12-dd3132790f91" name="Default Changelist" comment="1 Specialized Collection or collection modules&#10;2 Arrays&#10;3 Dictionary - (Nested, HashMap, Hash Table)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599812131377</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1 Specialized Collection or collection modules&#10;2 Arrays&#10;3 Dictionary - (Nested, HashMap, Hash Table)">
+      <created>1600237856493</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600237856493</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,7 +202,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic of python" />
     <MESSAGE value="1 Specialized Collection or collection modules&#10;2 Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 Specialized Collection or collection modules&#10;2 Arrays" />
+    <MESSAGE value="1 Specialized Collection or collection modules&#10;2 Arrays&#10;3 Dictionary - (Nested, HashMap, Hash Table)" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 Specialized Collection or collection modules&#10;2 Arrays&#10;3 Dictionary - (Nested, HashMap, Hash Table)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="41" key="#Inspections" timestamp="1599715373617">
