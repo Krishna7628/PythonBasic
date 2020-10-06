@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="390d373b-6eab-4e04-9d12-dd3132790f91" name="Default Changelist" comment="1 Specialized Collection or collection modules&#10;2 Arrays&#10;3 Dictionary - (Nested, HashMap, Hash Table)" />
+    <list default="true" id="390d373b-6eab-4e04-9d12-dd3132790f91" name="Default Changelist" comment="1 Specialized Collection or collection modules&#10;2 Arrays&#10;3 Dictionary - (Nested, HashMap, Hash Table)">
+      <change afterPath="$PROJECT_DIR$/Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmallProgram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +58,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.Arrays">
+  <component name="RunManager" selected="Python.SmallProgram">
     <configuration name="Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +88,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Input.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SmallProgram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SmallProgram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,10 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SmallProgram" />
+        <item itemvalue="Python.Loops" />
         <item itemvalue="Python.Arrays" />
         <item itemvalue="Python.onlineClass" />
         <item itemvalue="Python.app" />
-        <item itemvalue="Python.Input" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600237856493</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1 Specialized Collection or collection modules&#10;2 Arrays&#10;3 Dictionary - (Nested, HashMap, Hash Table)">
+      <created>1600319234860</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600319234860</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,22 +252,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="558" y="260" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1599647148932" />
-    <state width="1315" height="154" key="GridCell.Tab.0.bottom" timestamp="1600237743876">
+    <state width="1315" height="355" key="GridCell.Tab.0.bottom" timestamp="1601961903199">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1315" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600237743876" />
-    <state width="1315" height="154" key="GridCell.Tab.0.center" timestamp="1600237743876">
+    <state width="1315" height="355" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601961903199" />
+    <state width="1315" height="355" key="GridCell.Tab.0.center" timestamp="1601961903199">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1315" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600237743876" />
-    <state width="1315" height="154" key="GridCell.Tab.0.left" timestamp="1600237743876">
+    <state width="1315" height="355" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601961903199" />
+    <state width="1315" height="355" key="GridCell.Tab.0.left" timestamp="1601961903199">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1315" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600237743876" />
-    <state width="1315" height="154" key="GridCell.Tab.0.right" timestamp="1600237743876">
+    <state width="1315" height="355" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601961903199" />
+    <state width="1315" height="355" key="GridCell.Tab.0.right" timestamp="1601961903199">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1315" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600237743876" />
+    <state width="1315" height="355" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601961903199" />
     <state width="1315" height="195" key="GridCell.Tab.1.bottom" timestamp="1600236676772">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -254,10 +288,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1599715251250" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1599812282151">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600319247871">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599812282151" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600319247871" />
     <state x="349" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599716140405">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

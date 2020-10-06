@@ -106,3 +106,49 @@ print(type(b))
 c = {"Employee": {"vamsi": {"ID": "01", "Salary": "2000", "Designation": "Manager"},
                   "krishna": {"ID": "03", "Salary": "6000", "Designation": " team Manager"}}}
 print(c)
+
+#Accessing
+b = {'01': 'vamsi', '02': 'krishna'}
+
+print(b['02'])
+print(b.keys())
+print(b.values())
+
+for x in b:
+    print(x)
+
+for x in b.values():
+    print(x)
+
+for x,y in b.items():
+    print(x, y)
+
+#Updating value
+b['02'] = "yandrapragada"
+print(b)
+
+#Deleting
+b.popitem()
+print(b)
+b['02'] = "krishan"
+b['03'] = "y"
+print(b)
+
+b.pop("02")
+print(b)
+
+del b['03']
+print(b)
+
+
+#------------------------------------------------------------
+#Converting dictionary into a data frame
+# 'DataFrame' : is a 2 dimensional data structure that consists o columns of various types
+ #      - we can even convert dictionary into pandas frame
+
+import pandas as pd
+
+df = pd.DataFrame(c["Employee"])
+print(df)
+
+print(10 & 12)
